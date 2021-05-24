@@ -1,0 +1,7 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "michalsela",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"linuxAndroidStudioPath": "/home/home/workspace/thirdparty/android-studio/bin/studio.sh"
+}
